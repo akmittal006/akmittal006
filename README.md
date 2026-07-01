@@ -25,12 +25,6 @@ Lately, I have been exploring AI-assisted engineering workflows: MCP, RAG, LLM t
 - Turn messy enterprise workflows into reliable tools, automations, and developer experiences.
 - Work across backend, infrastructure, cloud, data, and AI-assisted developer tooling.
 
-### current focus
-
-- Reliability and performance systems for high-scale backend services.
-- AI-assisted debugging and engineering productivity workflows.
-- Multimodal reading and storytelling experiments with Flutter, TTS, and generative APIs.
-
 ### stack
 
 Java - Go - Python - Clojure - TypeScript - Spring Boot - React - Flutter - AWS - GCP - Kubernetes - Docker - Kafka - PostgreSQL - Redis - DynamoDB - Datadog - MCP - RAG - LLM tooling
