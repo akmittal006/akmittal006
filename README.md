@@ -6,6 +6,8 @@
 
 [linkedin](https://www.linkedin.com/in/akmittal006) - [github](https://github.com/akmittal006) - [email](mailto:akmittal375@gmail.com)
 
+![Profile views](https://komarev.com/ghpvc/?username=akmittal006&label=Profile%20views&color=0e75b6&style=flat)
+
 </div>
 
 ---
